@@ -1,0 +1,15 @@
+Accept
+Apology
+Ask-if
+Ask-ref
+Ask-confirm
+Hope
+Inform
+Offer
+Opinion
+Request
+Response-if
+Response-ref
+Response-conf
+Statement
+Thanks
